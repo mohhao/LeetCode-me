@@ -1,0 +1,5 @@
+git init \
+git add .(或文件) \
+git commit -m "提交注释" \
+git remote add origin https://github.com/mohhao/LeetCode-me.git \
+git push -u origin master
